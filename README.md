@@ -8,4 +8,5 @@ Thank You
 Vibhas Mahaldar
 
 
-![thumbnail](https://user-images.githubusercontent.com/75786979/124543271-98efeb00-de42-11eb-9f13-0523e7fa5318.png)
+![preview](https://user-images.githubusercontent.com/75786979/124544059-05b7b500-de44-11eb-8c4c-3ad99f00c565.png)
+
