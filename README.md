@@ -1,4 +1,4 @@
-# Responsive Card Design
+# Responsive Pricing Card 
 # [Watch it on youtube](https://www.youtube.com/channel/UCM3W53Ia-aDg68xkszilx3A)
 
 Responsive Pricing Card Using Html, Css and Scss With a beautiful
